@@ -23,8 +23,8 @@ With my expertise in these technologies, I deliver high-quality software solutio
 
 If you're looking for a skilled web developer to bring your ideas to life and revolutionize your digital presence, let's connect. Feel free to reach out to me using any of the following email addresses:
 
-- 📧 Email 1: devynlab@gmail.com
-- 📧 Email 2: kipkosgeilaban98@gmail.com
+- 📧 devynlab@gmail.com
+- 📧 kipkosgeilaban98@gmail.com
 
 You can also find me on Twitter at [@devynlab](https://twitter.com/devynlab). Follow me for the latest updates and web development insights.
 
