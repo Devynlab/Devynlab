@@ -1,36 +1,33 @@
-Repository Name: Devynlab
+# Repository: Devynlab
 
-Description:
-This repository showcases my experience as a backend web developer with expertise in the following technologies and tools:
+## Description
 
-- NestJS
-- Postgres
-- RabbitMQ
-- Amazon S3
-- Spring Boot
-- Africastalking API
+Welcome to Devynlab, the realm of a web developer with a passion for crafting cutting-edge applications. With a focus on Spring Boot, Nest, and React, I create dynamic web experiences that captivate users and bring ideas to life.
 
-Roles and Responsibilities:
-- Worked as a Backend Web Developer at Zummit Africa since Dec 2022 and at Litemore(Zeraki) from Jan 2022 to May 2022.
-- Collaborated with cross-functional teams including front-end developers, project managers, and quality assurance engineers to deliver high-quality software products.
-- Participated in code reviews, sprint planning, and daily stand-ups to ensure timely and effective project delivery.
-- Gained experience in Agile software development methodologies, RESTful API design, and cloud-based technologies.
-- Developed and maintained various applications using the technologies mentioned above.
+## Technologies
 
-Skills:
-- Strong understanding of backend web development principles and best practices.
-- Proficient in developing RESTful APIs using NestJS, Spring Boot, and other frameworks.
-- Experience in using relational databases like Postgres and non-relational databases like MongoDB.
-- Experience in implementing messaging systems using RabbitMQ and other message brokers.
-- Familiarity with cloud-based technologies like Amazon Web Services (AWS) and Google Cloud Platform (GCP).
-- Proficient in using version control systems like Git and GitHub.
-- Strong problem-solving skills and ability to work in a team-oriented environment.
+My toolkit includes:
 
-Certifications:
-- [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/certificate/GUPW7TA6N39P)): Google, 2021.
-- [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/86MZZ6PH4G9U)): Google, 2021.
-- [Using Python to Interact with the Operating System](https://www.coursera.org/account/accomplishments/certificate/FN7GGPSGJWPN): Google, 2021
+- Spring Boot: Empowering robust backend development with Java.
+- Nest: Building scalable and efficient server-side applications with TypeScript.
+- React: Crafting engaging and responsive user interfaces using JavaScript.
+- Docker: Containerizing applications for seamless deployment and scalability.
+- AWS: Leveraging the power of the cloud to deliver secure and scalable solutions.
+- Git: Version control mastery for efficient collaboration and code management.
 
-Education:
-- BSc. Business Information Technology: Jomo Kenyatta University of Agriculture and Technology, 2021.
-- Relevant Coursework: Object Oriented Programming I and II, Data Structures and Algorithms, Application Programming for Internet.
+## Expertise
+
+With my expertise in these technologies, I deliver high-quality software solutions that drive innovation and exceed expectations. From crafting RESTful APIs to developing user-friendly interfaces, I embrace the challenges of modern web development with creativity and tenacity.
+
+## Let's Collaborate
+
+If you're looking for a skilled web developer to bring your ideas to life and revolutionize your digital presence, let's connect. Feel free to reach out to me using any of the following email addresses:
+
+- 📧 Email 1: devynlab@gmail.com
+- 📧 Email 2: kipkosgeilaban98@gmail.com
+
+  Together, we can create remarkable experiences that leave a lasting impression.
+
+## Get in Touch
+
+- 🐦 Twitter: @devynlab
