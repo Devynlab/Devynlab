@@ -26,8 +26,6 @@ If you're looking for a skilled web developer to bring your ideas to life and re
 - 📧 Email 1: devynlab@gmail.com
 - 📧 Email 2: kipkosgeilaban98@gmail.com
 
-  Together, we can create remarkable experiences that leave a lasting impression.
+You can also find me on Twitter at [@devynlab](https://twitter.com/devynlab). Follow me for the latest updates and web development insights.
 
-## Get in Touch
-
-- 🐦 Twitter: @devynlab
+Together, we can create remarkable experiences that leave a lasting impression.
