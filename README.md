@@ -1,4 +1,4 @@
-# Repository: Devynlab
+# Devynlab
 
 ## Description
 
